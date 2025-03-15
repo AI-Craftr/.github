@@ -19,5 +19,5 @@ AI Craftr leverages OpenAI models and the LangChain framework to provide intelli
 ## 🌍 Join the Future of AI-Powered Development!
 We are building the ultimate AI assistant for developers. Stay tuned for updates, collaborations, and contributions!
 
-🔗 **GitHub:** [AI Craftr](https://github.com/AI-Craftr) 
-🚀 **More coming soon...**
+#### 🔗 **GitHub:** [AI Craftr](https://github.com/AI-Craftr) 
+#### 🚀 **More coming soon...**
